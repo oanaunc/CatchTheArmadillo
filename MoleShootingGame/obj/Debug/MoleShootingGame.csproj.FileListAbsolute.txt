@@ -1,0 +1,10 @@
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\bin\Debug\MoleShootingGame.exe.config
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\bin\Debug\MoleShootingGame.exe
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\bin\Debug\MoleShootingGame.pdb
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\obj\Debug\MoleShootingGame.csprojResolveAssemblyReference.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\obj\Debug\MoleShootingGame.Form1.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\obj\Debug\MoleShootingGame.Properties.Resources.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\obj\Debug\MoleShootingGame.csproj.GenerateResource.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\obj\Debug\MoleShootingGame.csproj.CoreCompileInputs.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\obj\Debug\MoleShootingGame.exe
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\MoleShootingGame\MoleShootingGame\obj\Debug\MoleShootingGame.pdb
